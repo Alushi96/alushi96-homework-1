@@ -198,3 +198,8 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+button {
+    background-color:#2a607c;
+    color: black;
+}
